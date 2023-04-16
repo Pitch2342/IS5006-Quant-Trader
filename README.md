@@ -8,6 +8,6 @@ Designed and implemented a Multi-Agent System for trading BTCUSD on Alpaca paper
 
 
 # Process Flowchart
-<img width="644" alt="image" src="https://user-images.githubusercontent.com/46064869/232274694-3694febc-947c-490e-a25f-9bda0a13d3ae.png">
+<img width="725" alt="image" src="https://user-images.githubusercontent.com/46064869/232274742-d98f4708-cb26-429d-8188-2f087ca8bbe7.png">
 
 
